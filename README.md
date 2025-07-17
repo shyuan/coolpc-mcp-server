@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/shyuan-coolpc-mcp-server-badge.png)](https://mseep.ai/app/shyuan-coolpc-mcp-server)
+
 # CoolPC MCP Server
 
 一個基於 Model Context Protocol (MCP) 的伺服器，提供台灣原價屋 (CoolPC) 電腦零組件價格查詢功能，讓 Claude Desktop 等 MCP 客戶端能夠透過 AI 協助生成電腦報價單。
